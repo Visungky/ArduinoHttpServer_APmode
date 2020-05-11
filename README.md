@@ -10,7 +10,8 @@ Arduino with ESP8266 wireless module.
 
 You can design your own website with html language in the file "ArduinoWebServer.html". Then Replace the page code in the WEMOS_WebServer_html.ino.  
   
-Default website preview is here:http://htmlpreview.github.io/?https://github.com/Visungky/WebOnArduino/blob/master/ArduinoWebServer.html
+Default website 
+Preview here:http://htmlpreview.github.io/?https://github.com/Visungky/WebOnArduino/blob/master/ArduinoWebServer.html
 
 ### Installation
 
