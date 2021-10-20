@@ -1,6 +1,6 @@
 ## Information
 
-This project is for running a website on Arduino, and at the meantime, to set or reset arduino's pins with bottons on the website.
+This project is an example for running a http website server on Arduino, and at the meantime, to set or reset arduino's pins with bottons on the website.
 
 ### Hardware
 
@@ -15,10 +15,10 @@ Preview here:http://htmlpreview.github.io/?https://github.com/Visungky/WebOnArdu
 
 ### Installation
 
-Use Arduino IDE to open the .ino file and then flash it into the Arduino board.
+Use Arduino IDE to open the .ino file and then flash the code into the Arduino.
 
 ### Usage
 
-1.While the Arduino is running, use device to connect WIFI "ESPWebServer" with default password "12345678".  
+1.While the Arduino is running, use a device to connect WIFI "ESPWebServer" with default password "12345678".  
   
-2.Then open the website browser and search "192.168.1.99", and you will connect to the arduino.
+2.Then open the website browser and search "192.168.1.99", and you will connect to your website.
