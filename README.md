@@ -1,6 +1,6 @@
 ## Information
 
-This project is an example for running a http website server on Arduino, and at the meantime, to set or reset arduino's pins with bottons on the website.
+This project is an example for running a HTTP website server on Arduino, and at the meantime, to set or reset arduino's pins using buttons on the website.
 
 ### Hardware
 
