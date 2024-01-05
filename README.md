@@ -6,7 +6,7 @@ This is an example of HTTP web server for Arduino.
 
 Arduino with ESP8266 wireless module.
 
-### Website style
+### Customizing Your Website
 
 Website can be modified using our template "ArduinoWebServer.html". Then Replace the page code in the WEMOS_WebServer_html.ino.  
 
